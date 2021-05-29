@@ -56,6 +56,8 @@
       }
     ],
     "react/jsx-one-expression-per-line": "off",
+    "no-nested-ternary": "off",
+    "prettier/prettier": "off",
     "react-hooks/rules-of-hooks": "error",
     "react-hooks/exhaustive-deps": "warn",
     "react/require-default-props": "off",
